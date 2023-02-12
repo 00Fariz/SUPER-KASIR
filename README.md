@@ -27,6 +27,9 @@ LANGKAH KERJA :
 2.	Pelanggan melakukan input nama barang, jumlah, dan harga.
 3.	Pelanggan melakukan cek dan konfirmasi pesanan.
 4.	Sistem akan  akan sekaligus memotong nominal transaksi apabila memenuhi syarat untuk mendapatkan diskon, adapun syaratnya dibawah ini :
+
 •	Jika total_harga > Rp.200.000 mendapatkan diskon 5%
+
 •	Jika total_harga > Rp.300.000 mendapatkan diskon 8%
+
 •	Jika total_harga > Rp.500.000 mendapatkan diskon 10%
